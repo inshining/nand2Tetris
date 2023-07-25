@@ -2,7 +2,7 @@
 
 ![Nand2Tetris](https://insightbookblog.files.wordpress.com/2023/04/ed919ceca780ec9e85ecb2b4.jpg?w=200)
 
-이 레포지토리는 "Nand2Tetris" 프로젝트를 구현하기 위해 만들어졌습니다. "The Elements of Computing System"이라는 책을 참고하고 있습니다. 
+이 레포지토리는 "Nand2Tetris" 프로젝트를 구현하기 위해 만들어졌습니다. "The Elements of Computing System"이라는 책을 참고하고 있습니다.
 
 ### Nand2Tetris란?
 
@@ -18,8 +18,8 @@ Nand2Tetris는 컴퓨터 과학의 기초를 이해하고 실제로 구현해볼
 
 ### 프로젝트 구성
 
-이 레포지토리는 Nand2Tetris 프로젝트의 각 단계별로 디렉토리를 구성할 것입니다. 각 단계는 하나의 주제를 다루며, 하드웨어와 소프트웨어를 순차적으로 구현하게 됩니다. 각 단계별로 README 파일과 함께 해당 챕터에서 배운 내용을 정리합니다.
+이 레포지토리는 Nand2Tetris 프로젝트의 각 단계별로 디렉토리를 구성되어 있습니다. 각 단계는 하나의 주제를 다루고 있습니다. 하드웨어, 소프트웨어 각각 6장 챕터로 구성되어 있습니다. README 파일과 함께 해당 챕터에서 배운 내용을 정리합니다.
 
 ### 참고
 
-- [Nand2Tetris Official Website](https://www.nand2tetris.org/)
+-   [Nand2Tetris Official Website](https://www.nand2tetris.org/)
