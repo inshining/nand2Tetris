@@ -1,6 +1,6 @@
 ## Nand2Tetris 프로젝트 레포지토리
 
-![Nand2Tetris](https://image.yes24.com/goods/118440555/XL)
+![Nand2Tetris](https://insightbookblog.files.wordpress.com/2023/04/ed919ceca780ec9e85ecb2b4.jpg?w=200)
 
 이 레포지토리는 "Nand2Tetris" 프로젝트를 구현하기 위해 만들어졌습니다. 이 프로젝트는 "The Elements of Computing System"이라는 책을 참고하여 공부하고 있습니다.
 
